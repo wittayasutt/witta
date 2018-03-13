@@ -1,0 +1,16 @@
+@import url(../fontawesome/web-fonts-with-css/scss/fontawesome.scss);
+
+@font-face {
+  font-family: 'Kanit';
+  font-weight: 200;
+  src: local('Kanit'), local('Kanit-Light'),
+    url(../fonts/Kanit/Kanit-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kanit'), local('Kanit-Regular'),
+    url(../fonts/Kanit/Kanit-Regular.ttf) format('truetype');
+}
